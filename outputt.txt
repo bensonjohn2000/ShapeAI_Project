@@ -1,0 +1,7 @@
+Enter the city name: valakom
+-------------------------------------------------------------
+Weather Stats for - VALAKOM  || 23 Jun 2021 | 02:41:59 PM
+-------------------------------------------------------------
+Current temperature is: 26.60 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 92 %
